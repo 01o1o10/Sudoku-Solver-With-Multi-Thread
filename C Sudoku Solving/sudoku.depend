@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1510663655 source:c:\users\ilyas mammadov\desktop\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+	<conio.h>
+

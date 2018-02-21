@@ -1,0 +1,13 @@
+C:\Users\ILYAS MAMMADOV\Desktop\sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\ILYAS MAMMADOV\Desktop\sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\ILYAS MAMMADOV\Desktop\sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\ILYAS MAMMADOV\Desktop\sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\ILYAS MAMMADOV\Desktop\sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\ILYAS MAMMADOV\Desktop\sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\ILYAS MAMMADOV\Desktop\sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\ILYAS MAMMADOV\Desktop\sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\ILYAS MAMMADOV\Desktop\sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\ILYAS MAMMADOV\Desktop\sudoku\Sudoku\obj\Debug\Sudoku.SudokuÇöz.resources
+C:\Users\ILYAS MAMMADOV\Desktop\sudoku\Sudoku\obj\Debug\Sudoku.Form2.resources
+C:\Users\ILYAS MAMMADOV\Desktop\sudoku\Sudoku\obj\Debug\Sudoku.Form3.resources
+C:\Users\ILYAS MAMMADOV\Desktop\sudoku\Sudoku\obj\Debug\Sudoku.Form4.resources
